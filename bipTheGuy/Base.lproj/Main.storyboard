@@ -25,7 +25,7 @@
                                     <outletCollection property="gestureRecognizers" destination="kYF-AC-Wml" appends="YES" id="S0g-NL-vAI"/>
                                 </connections>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Choose Image to Punch:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TEX-GS-ePi">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Choose Image to Punch:" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TEX-GS-ePi">
                                 <rect key="frame" x="97" y="485" width="187" height="21"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="21" id="Mgo-9N-NG4"/>
