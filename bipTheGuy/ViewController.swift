@@ -60,7 +60,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         let alertController = UIAlertController(title: title, message: message, preferredStyle: .alert)
         let defaultAction =  UIAlertAction(title: "OK", style: .default, handler: nil)
         alertController.addAction(defaultAction)
-        present(alert, animated: true, completion: nil)
+        present(alertController, animated: true, completion: nil)
     }
     
     //Mark: Actions
